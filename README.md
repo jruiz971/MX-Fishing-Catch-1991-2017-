@@ -23,6 +23,15 @@ Mexico's National Fishing Catch Data:
 - (optional, my Drive: https://drive.google.com/file/d/1zL-wNDytBiyD0mkELbLTzjKaeY7JCIJy/view?usp=sharing ) 
 
 
+El proyecto está realizado en una Libreta de Jupyter. Puedes instalar la libreta usando los comandos:
+The project is carried out in a Jupyter's Notebook. You can install the notebook using the commands:
+> - Conda:
+>> - conda install -c conda-forge jupyterlab
+> - pip:
+>> - pip install jupyterlab
+> - Si tienes algún problema puedes consultar la documentación en:
+> - If you have any problem you can consult the documentation at:
+>> - https://jupyter.org/install.html
 
 python3 libraries:
 > - Recomiendo usar conda para administrar paquetes. Si no tienes conda, puedes instalar las librebrías así:
@@ -36,3 +45,4 @@ python3 libraries:
 >> - To install this library, use this command "pip3 install pandas" in your console and then import the library into your code.
 
 #### TO RUN THE PROJECT
+- Clone the repository---> https://github.com/jruiz971/MX-Fishing-Catch-1991-2017-.git
