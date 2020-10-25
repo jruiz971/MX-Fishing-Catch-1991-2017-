@@ -45,4 +45,18 @@ python3 libraries:
 >> - To install this library, use this command "pip3 install pandas" in your console and then import the library into your code.
 
 #### TO RUN THE PROJECT
+- Clona el repositorio---> https://github.com/jruiz971/MX-Fishing-Catch-1991-2017-.git
+- Para abrir el servidor Jupyter, escriba en la terminal: jupyter-lab
+- En tu navegador ve a tu localhost: 127.0.0.1:8888
+> - Esto abrirá Jupyter
+- En el panel de la izquierda estará la opción de Navegador de Archivos. Ve al directorio que clonaste y abre (doble click) el archivo "Modelado-Modeling.ipynb".
+- Ejecuta cada celda con Shift + Enter
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 - Clone the repository---> https://github.com/jruiz971/MX-Fishing-Catch-1991-2017-.git
+- In order to server your Jupyter Notebook type in terminal: jupyter-lab
+- On your browser go to your localhost: 127.0.0.1:8888
+> - This will open Jupyter
+- In the left panel will be the File Browser option. Go to the directory you cloned and open (double click) the file "Modelado-Modeling.ipynb".
+- Run each cell with Shift + Enter
+
