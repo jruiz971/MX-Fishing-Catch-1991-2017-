@@ -60,10 +60,10 @@ python3 libraries:
 - Run each cell with Shift + Enter
 
 #### Results
-Modelo del Golfo y Mar Caribe
-Gulf and Caribbean Sea Model
+##### Modelo del Golfo y Mar Caribe
+##### Gulf and Caribbean Sea Model
 ![a4](https://github.com/jruiz971/MX-Fishing-Catch-1991-2017-/blob/main/img/Litoral%20del%20Golfo%20y%20Mar%20Caribe.png)
 
-Modelo del Pacífico
-Pacific Model
+##### Modelo del Pacífico
+##### Pacific Model
 ![a4](https://github.com/jruiz971/MX-Fishing-Catch-1991-2017-/blob/main/img/Litoral%20del%20Pac%C3%ADfico.png)
