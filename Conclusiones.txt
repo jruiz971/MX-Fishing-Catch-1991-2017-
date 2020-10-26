@@ -1,0 +1,31 @@
+#---Conclusiones---#
+En la Libreta de Jupyter se hace el modelado lineal (polinomio de grado 1; y = mx + b ) y de una parábola (polinimio de grado 2; y = ax^2 + bx + c) sobre los datos de la Captura Pesquera Nacional Mexicana. 
+
+"No hay nada más complicado y abstracto que modelar la realidad"
+
+->Tipo de Modelado.
+Lo que hice en esta Modelación fue:
+	a)Recopilé datos que habían sido obsrevados.
+	b)Presenté los datos, pero no expliqué el porqué de ellos.
+	c)Grafiqué los datos y probé con dos diferentes ecuaciones que se podían ajustar al comportamiento de los datos.
+	d)Con las gráficas pude dar una interpretación del comportamiento de los datos.
+	
+Con el trabajo realizado puedo concluir que el modelo que seguí es un modelo empírico.
+<https://en.wikipedia.org/wiki/Empirical_modelling>
+
+#---Conclusions---#
+
+In Jupyter's Notebook the linear modeling (degree 1 polynomial; y = mx + b ) and a parabola (degree 2 polynomial; y = ax^2 + bx + c) are made on the data of the Mexican National Fishing Catch. 
+
+"There is nothing more complicated and abstract than modeling reality"
+
+->Modeling type.
+What I did in this Modeling was:
+	a)I collected data that had been observed.
+	b)I presented the data, but I did not explain why.
+	c) I plotted the data and tried two different equations that could be adjusted to the data.
+	d) With the graphs I was able to give an interpretation of the data.
+	
+With the work done I can conclude that the model I followed is an empirical model.
+
+<https://en.wikipedia.org/wiki/Empirical_modelling>
